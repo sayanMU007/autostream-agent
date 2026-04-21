@@ -22,7 +22,7 @@ autostream-agent/
 
 ### Prerequisites
 - Python 3.9+
-- An [Anthropic API key](https://console.anthropic.com/)
+- An [groq API key](https://console.groq.com//)
 
 ### Step 1 — Clone & Install
 
@@ -39,14 +39,14 @@ pip install -r requirements.txt
 ### Step 2 — Set Your API Key
 
 ```bash
-export ANTHROPIC_API_KEY="sk-ant-..."    # Linux / macOS
+export GROQ_API_KEY="sk-ant-..."    # Linux / macOS
 # OR
-set ANTHROPIC_API_KEY=sk-ant-...         # Windows CMD
+set GROQ_API_KEY=sk-ant-...         # Windows CMD
 ```
 
 Or create a `.env` file:
 ```
-ANTHROPIC_API_KEY=sk-ant-...
+GROQ_API_KEY=sk-ant-...
 ```
 
 ### Step 3 — Run the Agent
