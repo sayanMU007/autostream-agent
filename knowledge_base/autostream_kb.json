@@ -1,0 +1,78 @@
+{
+  "company": {
+    "name": "AutoStream",
+    "tagline": "Automated video editing tools for content creators",
+    "description": "AutoStream is a SaaS platform that empowers content creators with AI-powered video editing, automated captions, and smart rendering at any resolution."
+  },
+  "pricing": {
+    "plans": [
+      {
+        "name": "Basic Plan",
+        "price_monthly": 29,
+        "currency": "USD",
+        "features": [
+          "10 videos per month",
+          "720p resolution output",
+          "Basic auto-cut editing",
+          "Standard export formats (MP4, MOV)",
+          "Email support (Mon-Fri)"
+        ],
+        "ideal_for": "Hobbyists and beginners starting their content journey"
+      },
+      {
+        "name": "Pro Plan",
+        "price_monthly": 79,
+        "currency": "USD",
+        "features": [
+          "Unlimited videos per month",
+          "4K resolution output",
+          "AI-powered captions and subtitles",
+          "Advanced auto-cut and scene detection",
+          "All export formats including WebM",
+          "Priority 24/7 support",
+          "Custom branding and watermarks",
+          "Collaboration tools for teams"
+        ],
+        "ideal_for": "Professional creators, agencies, and serious YouTubers/Instagrammers"
+      }
+    ]
+  },
+  "policies": {
+    "refund_policy": {
+      "description": "No refunds are issued after 7 days from the date of purchase.",
+      "details": "Customers may request a full refund within the first 7 days of their subscription. After the 7-day window, no refunds will be processed. Cancellations stop future billing but do not trigger refunds."
+    },
+    "support_policy": {
+      "basic_plan": "Email support available Monday through Friday during business hours.",
+      "pro_plan": "24/7 priority support via live chat, email, and phone.",
+      "response_times": {
+        "basic": "Up to 48 hours",
+        "pro": "Under 2 hours"
+      }
+    },
+    "cancellation": "You may cancel your subscription at any time. Access continues until the end of the billing period.",
+    "data_privacy": "All uploaded videos are encrypted and stored securely. AutoStream does not use your content for AI training without explicit consent."
+  },
+  "faqs": [
+    {
+      "question": "Can I upgrade from Basic to Pro mid-cycle?",
+      "answer": "Yes, you can upgrade at any time. The price difference is prorated for the remaining billing period."
+    },
+    {
+      "question": "What platforms does AutoStream work with?",
+      "answer": "AutoStream is web-based and works on all modern browsers. It integrates directly with YouTube, Instagram, TikTok, and Vimeo for one-click publishing."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes! We offer a 7-day free trial on the Pro plan with no credit card required."
+    },
+    {
+      "question": "What video formats are supported for upload?",
+      "answer": "AutoStream supports MP4, MOV, AVI, MKV, and WebM uploads up to 10GB per file."
+    },
+    {
+      "question": "Does the AI captioning support multiple languages?",
+      "answer": "Yes, AI captions on the Pro plan support over 50 languages with high accuracy."
+    }
+  ]
+}
