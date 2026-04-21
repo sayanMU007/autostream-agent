@@ -7,6 +7,8 @@ Social-to-Lead Agentic Workflow for ServiceHive / Inflx Assignment
 import json
 import os
 import re
+from dotenv import load_dotenv
+load_dotenv()
 from typing import Annotated, TypedDict, Literal
 from pathlib import Path
 
